@@ -1,14 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     }
 ]

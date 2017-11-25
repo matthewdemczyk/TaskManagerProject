@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b085eefcac94d8edb7bb00a315bc5d0cbe5e153c">
+        <dex dex="/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e9a2852c0bd9ac3f3e26909d82e5073698381d40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d1c882c24d772eb44334cdc10396107c9372505/classes.dex" />
+    </item>
+
+</items>

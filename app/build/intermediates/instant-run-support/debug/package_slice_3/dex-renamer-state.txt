@@ -1,0 +1,4 @@
+#Fri Nov 24 22:07:14 EST 2017
+base.0=/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex

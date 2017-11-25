@@ -1,210 +1,418 @@
 [
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ballcap.jpg",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\ballcap.jpg"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girl.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\girl.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman4.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\woman4.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/granny.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/granny.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girl.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\girl.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/blckgirl.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/blckgirl.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman3.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\woman3.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/woman4.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/woman4.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man2.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\man2.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/man.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/man.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man2.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\man2.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/boy.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/boy.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blackboy.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\blackboy.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\granny.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\granny.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blackboy.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\blackboy.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blckgirl.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\blckgirl.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nerdyboy.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\nerdyboy.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\male.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/woman3.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/woman3.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man3.jpg",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\man3.jpg"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nerdyboy.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\nerdyboy.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/man3.jpg",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/man3.jpg"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\male.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/man2.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/man2.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man3.jpg",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\man3.jpg"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/girl.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/girl.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\woman.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\woman.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boy.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\boy.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/nerdyboy.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/nerdyboy.png"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man.png",
-        "source": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\man.png"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ballcap.jpg",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\ballcap.jpg"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman4.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\woman4.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman3.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\woman3.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/blackboy.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/blackboy.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\granny.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\granny.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blckgirl.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\blckgirl.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/ballcap.jpg",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/ballcap.jpg"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/woman.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/woman.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/male.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/src/main/res/drawable/male.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boy.png",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\src\\main\\res\\drawable\\boy.png"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\drawable\\abc_ratingbar_material.xml"
     }
 ]

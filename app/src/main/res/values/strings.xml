@@ -27,4 +27,5 @@
     <string name="enterUsernameText">Username:</string>
     <string name="usernameTextView">Username:</string>
     <string name="selectIconTextView">Select an icon:</string>
+    <string name="createNewUserButton">Create</string>
 </resources>

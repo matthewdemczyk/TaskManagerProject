@@ -1,26 +1,50 @@
 [
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\layout-v11\\notification_template_big_media.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\984d3e8509078bde442ece357fec45c90a53a63f\\output\\res\\values\\values.xml",
+                    "file": "/Users/michelledussault/.android/build-cache/9382edf2246bd4340fadb53e0eed0bb6cadd0b52/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\984d3e8509078bde442ece357fec45c90a53a63f\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

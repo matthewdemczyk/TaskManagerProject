@@ -1,42 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/michelledussault/.android/build-cache/7af2eac01034e2a69037f968cef8a718f7915736/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\Documents\\androidstudioprojects\\TaskManager\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "/Users/michelledussault/Documents/Fall 2017/SEG 2105 lab/TaskManagerProject/C:\\Users\\Matthew Demczyk\\.android\\build-cache\\0f20f1fb96333150dca41038cf7993809c292a88\\output\\res\\color-v23\\abc_tint_edittext.xml"
     }
 ]
