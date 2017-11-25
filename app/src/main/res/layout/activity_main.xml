@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:backgroundTint="@android:color/darker_gray"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/UserSettingsButton"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary"
+            android:onClick="buttonUserSettingsOnClick"
+            android:text="@string/UserSettingsButton"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/MyProfileButton"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:background="@android:color/holo_orange_light"
+            android:onClick="buttonMyProfileOnClick"
+            android:text="@string/MyProfileButton"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/TasksButton"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@android:color/holo_blue_light"
+            android:onClick="buttonTasksOnClick"
+            android:text="@string/TasksButton"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</LinearLayout>
