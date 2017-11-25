@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="ProfileButton">My profile</string>
+    <string name="ChoresButton">Tasks</string>
+    <string name="UsersButton">User settings</string>
+    <string name="CreateTaskButton">Create a task</string>
+    <string name="SwitchUsersButton">Switch user</string>
+    <string name="CreateUserButton">Create new user</string>
+    <string name="AddTaskButton">Add task</string>
+    <string name="SelectUsertextView">Select a user</string>
+    <string name="YourTaskstextView">Your tasks:</string>
+    <string name="YourPointstextView">Your points: </string>
+    <string name="UserSettingsButton">User settings</string>
+    <string name="MyProfileButton">My Profile</string>
+    <string name="TasksButton">Tasks</string>
+    <string name="taskTitle">Title:</string>
+    <string name="taskDescription">Description:</string>
+    <string name="taskDeadline">Deadline:</string>
+    <string name="editTextTaskDeadline">enter deadline of task</string>
+    <string name="editTextTaskDescription">enter description of task</string>
+    <string name="editTextTaskTitle">enter title of task</string>
+    <string name="taskPoints">Points:</string>
+    <string name="submitButton">Submit</string>
+    <string name="unassignedTasks">Unassigned tasks:</string>
+    <string name="submitUserButton">Submit</string>
+    <string name="selectIconText">Select a profile icon:</string>
+    <string name="enterUsernameText">Username:</string>
+    <string name="usernameTextView">Username:</string>
+    <string name="selectIconTextView">Select an icon:</string>
+    <string name="submitNewUserButton">Create</string>
+</resources>
