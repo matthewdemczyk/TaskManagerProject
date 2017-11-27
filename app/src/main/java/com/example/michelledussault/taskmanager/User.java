@@ -6,5 +6,29 @@ package com.example.michelledussault.taskmanager;
 
 public class User {
 
+    private String username;
+    private String profileIcon;
+
+
+    public User(){}
+
+    public User(String username, String profileIcon){
+        this.username = username;
+        this.profileIcon = profileIcon;
+    }
+
+
+    public String getUsername(){
+        return username;
+    }
+
+    public String getProfileIcon(){
+        return profileIcon;
+    }
+
+    public void setProfileIcon(String profileIcon){
+        this.profileIcon = profileIcon;
+    }
+
 
 }

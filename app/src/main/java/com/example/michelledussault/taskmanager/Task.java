@@ -1,23 +1,26 @@
 package com.example.michelledussault.taskmanager;
 
-import java.util.Date;
+import java.io.Serializable;
+
 
 /**
  * Created by michelledussault on 2017-11-24.
  */
 
-public class Task {
+public class Task implements Serializable {
 
 
     private String title;
     private String description;
-    private Date deadline;
+    private String deadline;
     private Enum status;
-    private double points;
+    private String points;
+    private String id;
 
     public Task(){}
 
-    public Task(String title, String description, Date deadline, Enum status, double points){
+    public Task(String id,String title, String description, String deadline, Enum status, String points){
+        this.id = id;
         this.title = title;
         this.description = description;
         this.deadline = deadline;
@@ -25,6 +28,12 @@ public class Task {
         this.points = points;
     }
 
+    public String getId() {
+        return id;
+    }
+    public void setId(String id){
+        this.id = id;
+    }
 
     public String getTitle(){
         return title;
@@ -40,10 +49,10 @@ public class Task {
         this.description = description;
     }
 
-    public Date getDeadline(){
+    public String getDeadline(){
         return deadline;
     }
-    public void setDeadline(Date deadline){
+    public void setDeadline(String deadline){
         this.deadline = deadline;
     }
 
@@ -54,11 +63,11 @@ public class Task {
         this.status = status;
     }
 
-    public double getPoints(){
+    public String getPoints(){
         return points;
     }
 
-    public void setPoints(double points){
+    public void setPoints(String points){
         this.points = points;
     }
 
